@@ -1,0 +1,9 @@
+[30-Nov-2022 07:33:11 America/Chicago] PHP Warning:  Attempt to read property "num_rows" on bool in /home1/cvriicsc/public_html/riic/controller/save-news.php on line 17
+[30-Nov-2022 16:37:58 America/Chicago] PHP Warning:  Undefined variable $institution_name in /home1/cvriicsc/public_html/riic/controller/add-suc.php on line 36
+[01-Dec-2022 01:01:08 America/Chicago] PHP Warning:  Undefined array key "full_name" in /home1/cvriicsc/public_html/riic/controller/add-account.php on line 6
+[01-Dec-2022 01:02:20 America/Chicago] PHP Warning:  Undefined array key "full_name" in /home1/cvriicsc/public_html/riic/controller/add-account.php on line 6
+[01-Dec-2022 01:03:12 America/Chicago] PHP Warning:  Undefined array key "full_name" in /home1/cvriicsc/public_html/riic/controller/add-account.php on line 6
+[01-Dec-2022 01:03:36 America/Chicago] PHP Warning:  Undefined array key "full_name" in /home1/cvriicsc/public_html/riic/controller/add-account.php on line 6
+[04-Dec-2022 06:30:26 America/Chicago] PHP Warning:  Undefined array key "officeEmail" in /home1/cvriicsc/public_html/riic/controller/save-office.php on line 11
+[04-Dec-2022 06:35:21 America/Chicago] PHP Warning:  Undefined array key "officeEmail" in /home1/cvriicsc/public_html/riic/controller/save-office.php on line 11
+[06-Dec-2022 08:29:46 America/Chicago] PHP Warning:  Undefined array key "clientid" in /home1/cvriicsc/public_html/riic/controller/save-client.php on line 101
