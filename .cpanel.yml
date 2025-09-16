@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dost02on/shine.dost02onedata.com/
+    - /bin/cp -R images $DEPLOYPATH
